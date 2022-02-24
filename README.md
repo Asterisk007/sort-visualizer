@@ -2,6 +2,6 @@
 
 By default, uses bubble sort. Additional sorting algorithms pending.  
 
-Requires [SDL2](https://wiki.libsdl.org/Installation) to build.  
+Requires [Raylib](https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux) to build.  
 
-Runs fine using [VcXsrv](https://sourceforge.net/projects/vcxsrv/), if you are using WSL2.  
+Use [VcXsrv](https://sourceforge.net/projects/vcxsrv/) if you are using WSL2.  
